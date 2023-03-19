@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "name" : "some other name",
+        "email" : "hecicicu@finews.biz",
+        "groups" : "Student"
+    },
+    {
+        "id" : 2,
+        "name" : "test name",
+        "email" : "hecicicu@finews.biz",
+        "groups" : "Student"
+    },
+    {
+        "id" : 3,
+        "name" : "test name",
+        "email" : "hecicicu@finews.biz",
+        "groups" : "Admin"
+    },
+    {
+        "id" : 4,
+        "name" : "test name",
+        "email" : "hecicicu@finews.biz",
+        "groups" : "Student"
+    },
+    {
+        "id" : 5,
+        "name" : "test name",
+        "email" : "hecicicu@finews.biz",
+        "groups" : "Student"
+    },
+    {
+        "id" : 6,
+        "name" : "test name",
+        "email" : "hecicicu@finews.biz",
+        "groups" : "Student"
+    },
+    {
+        "id" : 7,
+        "name" : "test name",
+        "email" : "hecicicu@finews.biz",
+        "groups" : "Instructor"
+    },
+    {
+        "id" : 8,
+        "name" : "test name",
+        "email" : "hecicicu@finews.biz",
+        "groups" : "Student"
+    },
+    {
+        "id" : 9,
+        "name" : "test name",
+        "email" : "hecicicu@finews.biz",
+        "groups" : "Student"
+    },
+    {
+        "id" : 10,
+        "name" : "test name",
+        "email" : "hecicicu@finews.biz",
+        "groups" : "Instructor"
+    }
+]
